@@ -1,0 +1,40 @@
+h1{
+    background-color: rgb(40, 40, 159);
+    padding: 100px;
+    text-align: center;
+    color: rgb(3, 3, 19); background-color: rgb(38, 38, 81);
+}
+img{
+    width: 250px;
+    height: 250px;
+}
+source{
+    background-color: rgb(89, 89, 255);
+}
+
+.ft{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    padding-right: 20px;
+}
+
+.ft h3{
+    padding-left: -120px;
+}
+body{
+    background-image: url(mymulher.jpg); background-repeat: repeat-z;background-size: cover;
+    height: 100%;
+    width: 100%;
+    color: rgb(217, 211, 230);
+}
+
+.letra {
+    font-family: "Grey Qo", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+h2{
+    background-color: rgb(10, 10, 45);
+}
+
